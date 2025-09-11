@@ -1,3 +1,9 @@
+
+SOLID, REP,
+CCP, and CRP
+
+
+
 The Stable Dependencies Principle (SDP)
 
 Common Closure Principle (CCP)
@@ -13,5 +19,8 @@ create classes that are flexible enough to be extended without requiring
 modification. Which kind of classes conform to this principle? Abstract
 classes.
 
+
+
+ CQRS pattern (Command Query Responsibility Segregation pattern)
 
 
