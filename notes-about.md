@@ -59,8 +59,22 @@ The Acyclic Dependencies Principle
 
 
 page 233 Crossing Boundaries
- 
+
+page 239 The Humble Object Pattern
+
+
+page 278 Desing For Testability
+
+may 10 2025
+-  investigate about the Fragile Test Problem 
+
+
+The solution is to design for testability. The first rule of software design—
+whether for testability or for any other reason—is always the same: Don’t
+depend on volatile things. GUIs are volatile. Test suites that operate the
+system through the GUI must be fragile. Therefore design the system, and the
+tests, so that business rules can be tested without using the GUI.
 
 
 
-
+page 291 

@@ -1,5 +1,7 @@
 # The Clean Architecture
 
+![GitHub Logo](/images/figure_22_1_the_clean_architecture.png)
+
 > Enterprise Business Rules
 - Entities
 
